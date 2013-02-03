@@ -1,5 +1,5 @@
 Very simple db application.
-<image href="http://screencloud.net/v/yopi"/>
+![Screenshot](http://screencloud.net/v/yopi)
 <br>
 How to use:
 <br>
