@@ -1,5 +1,5 @@
 Very simple db application.
-![Screenshot](http://screencloud.net/v/yopi)
+![Screenshot][http://screencloud.net/img/screenshots/565ce3ce418884a864d389127df203e1.png]
 <br>
 How to use:
 <br>
